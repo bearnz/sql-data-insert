@@ -4,7 +4,7 @@
     0.5 changes:
     Modified for linux terminal usage:
         - cd Desktop
-        - python3 sql_ins_0.5.py
+        - python3 sql_ins_LINUX_0.5.py
     -readded .sql file creation
         - @output.sql in MySQL
     
