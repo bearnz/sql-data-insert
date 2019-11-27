@@ -40,4 +40,7 @@ def main():
     print("Your converted code is in output.sql in this directory")
     data(source_data, target)
     
+if __name__ == "__main__":
+    main()
+    
 main()
