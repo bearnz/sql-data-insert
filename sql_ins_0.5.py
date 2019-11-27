@@ -34,7 +34,10 @@ def data(source, target):
         SQL_line = SQL_line[:-1]
         output.write("insert into " + target +  " values(" + SQL_line + "); \n")
     output.close()
-        
+    
+if __name__ == "__main__":
+    main()
+    
 def main():
     #These print statements could be commented out in future once you know how to run this script
     print("Your data is assumed to be in .csv format")
