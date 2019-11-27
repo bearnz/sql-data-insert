@@ -1,7 +1,7 @@
 """
     Bear's shitty txt->SQL database insertion script v0.4
     
-    USE THIS SCRIPT FOR INPUT OF .csv FILES ON WINDOWS
+    USE THIS SCRIPT FOR INPUT OF .txt FILES ON WINDOWS
     
     Press run and follow the instructions onscreen
     v0.4 changes:
