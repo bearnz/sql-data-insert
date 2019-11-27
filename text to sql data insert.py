@@ -1,5 +1,5 @@
 """
-    Bear's shitty csv->SQL database insertion script v0.4
+    Bear's shitty txt->SQL database insertion script v0.4
     Press run and follow the instructions onscreen
     v0.4 changes:
         -added warning about commas in data
