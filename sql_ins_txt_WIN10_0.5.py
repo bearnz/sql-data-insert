@@ -1,9 +1,11 @@
 """
     Bear's shitty txt->SQL database insertion script v0.4
+    
+    USE THIS SCRIPT FOR INPUT OF .csv FILES ON WINDOWS
+    
     Press run and follow the instructions onscreen
     v0.4 changes:
         -added warning about commas in data
-        -initial git commit
     
 """
 
