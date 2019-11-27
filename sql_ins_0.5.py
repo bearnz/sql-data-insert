@@ -11,7 +11,7 @@
 """
 
 def isInt(s):
-    #Stole this function off the internet
+    #Checks whether inputted string is valid int
     try: 
         int(s)
         return True
