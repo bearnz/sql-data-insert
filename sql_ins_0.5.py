@@ -35,9 +35,6 @@ def data(source, target):
         output.write("insert into " + target +  " values(" + SQL_line + "); \n")
     output.close()
     
-if __name__ == "__main__":
-    main()
-    
 def main():
     #These print statements could be commented out in future once you know how to run this script
     print("Your data is assumed to be in .csv format")
@@ -46,5 +43,8 @@ def main():
     print("Enter the name of your target database:")
     target = input()
     data(source_data, target)
+    
+if __name__ == "__main__":
+    main()
     
 main()
