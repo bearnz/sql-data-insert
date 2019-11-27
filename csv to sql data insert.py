@@ -8,10 +8,6 @@
 """
 
 def isInt(s):
-    #Stole this function off the internet whoops
-    #This techinically works with any number type and as long as it's also
-    #a valid number type in the sql table then there shouldn't be
-    #any issues with it (floats, doubles etc)
     try: 
         int(s)
         return True
