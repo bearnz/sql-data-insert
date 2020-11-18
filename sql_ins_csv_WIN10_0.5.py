@@ -1,5 +1,5 @@
 """
-    Bear's shitty csv->SQL database insertion script v0.4
+    csv->SQL database insertion script v0.4
     
     USE THIS SCRIPT FOR INPUT OF .csv FILES ON WINDOWS
     
