@@ -1,5 +1,5 @@
 """
-    Bear's shitty txt->SQL database insertion script v0.4
+    txt->SQL database insertion script v0.4
     
     USE THIS SCRIPT FOR INPUT OF .txt FILES ON WINDOWS
     
