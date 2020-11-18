@@ -1,5 +1,5 @@
 """
-    Bear's shitty csv->SQL database insertion script v0.5
+    csv->SQL database insertion script v0.5
     Press run and follow the instructions onscreen
     0.5 changes:
     Modified for linux terminal usage:
