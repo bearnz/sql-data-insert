@@ -6,5 +6,3 @@ depending on the user.
 TODO:
 -Combine scripts of the same OS into 1 .py file and filter depending on input file type
 -Clean up code and support more sql data types
-
-This code was written as an academic excercise and thus carries no liability for any loss or damage caused by it.
